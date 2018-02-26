@@ -522,7 +522,7 @@
                 </macro>
                 <macro>
                     <macro>{$NGINX_STATS_URI}</macro>
-                    <value>nginx-stats</value>
+                    <value>nginx-status</value>
                 </macro>
             </macros>
             <templates/>
