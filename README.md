@@ -33,7 +33,7 @@
 <h3>Nginx Configuration</h3>
 <p> </p>
 <p>Add the following example to your default vhost configuration file:</p>
-<pre>location /nginx_status {<br />    stub_status on;<br />    access_log off;<br />    allow 127.0.0.1;<br />    deny all;<br />}</pre>
+<pre>location /nginx_status {<br />    stub_status on;<br />    access_log off;<br />    allow 127.0.0.1;<br />    allow ::1;<br />    deny all;<br />}</pre>
 <pre> </pre>
 <h3>Zabbix Configuration</h3>
 <p> </p>
