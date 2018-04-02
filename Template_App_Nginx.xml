@@ -67,7 +67,7 @@
 \1</params>
                         </step>
                         <step>
-                            <type>9</type>
+                            <type>10</type>
                             <params/>
                         </step>
                     </preprocessing>
@@ -165,7 +165,7 @@
 \2</params>
                         </step>
                         <step>
-                            <type>9</type>
+                            <type>10</type>
                             <params/>
                         </step>
                     </preprocessing>
@@ -267,7 +267,7 @@
 \3</params>
                         </step>
                         <step>
-                            <type>9</type>
+                            <type>10</type>
                             <params/>
                         </step>
                     </preprocessing>
