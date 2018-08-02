@@ -466,7 +466,7 @@
                 </macro>
                 <macro>
                     <macro>{$NGINX_HOST}</macro>
-                    <value>localhost</value>
+                    <value>127.0.0.1</value>
                 </macro>
                 <macro>
                     <macro>{$NGINX_PORT}</macro>
